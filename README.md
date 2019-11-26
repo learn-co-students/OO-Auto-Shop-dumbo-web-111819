@@ -38,3 +38,13 @@ Here's what we need to be able to do.
 
   - Get a list of the names of all car owners who
   go to a specific mechanic
+
+
+
+mm_c = Car.new(mark_co, mo_m, "volvo", "s90", "exotic")
+hl_c = Car.new(henry_co, liz_m, "ford", "focus", "clunker")
+kr_c = Car.new(kate_co, rosie_m, "bmw", "750","exotic")
+jc_c = Car.new(jane_co, cal_m, "honda", "fusion hybrid", "clunker")
+mr_c = Car.new(mark_co, rosie_m, "porsche", "panamera", "exotic")
+km_c = Car.new(kate_co, mo_m, "audi", "a6" "exotic")
+mt_c = Car.new(mel_co, tom_m, "honda", "cr-v", "antique")
